@@ -1,6 +1,6 @@
 # FUTURE_PE_01
 AI Website Copy Generator for Local Businesses
-# AI Website Copy Generator – Local Cafe Edition
+# AI Website Copy Generator – Local Cafe/Restaurant Edition
 
 ## Project Overview
 ##Business Choosen-a cafe or restaurant 
@@ -89,7 +89,7 @@ By structuring inputs clearly, the AI produces consistent, high-quality results 
 - ChatGPT (for prompt testing and refinement)
 - Manual prompt iteration and optimization
 - Claude-ai
-- 
+  
 
 ---
 
