@@ -3,6 +3,7 @@ AI Website Copy Generator for Local Businesses
 # AI Website Copy Generator – Local Cafe Edition
 
 ## Project Overview
+##Business Choosen-a cafe or restaurant 
 
 This project demonstrates a structured prompt engineering system designed to generate high-converting website copy for local businesses.
 
@@ -52,6 +53,7 @@ The prompt ensures outputs feel:
 ---
 
 ## Prompt Engineering Logic
+prompt-logic 
 
 The master prompt includes:
 
@@ -86,12 +88,14 @@ By structuring inputs clearly, the AI produces consistent, high-quality results 
 
 - ChatGPT (for prompt testing and refinement)
 - Manual prompt iteration and optimization
+- Claude-ai
+- 
 
 ---
 
 ## Business Impact
 
-If implemented for Sasi Cafe, this copy would:
+If implemented for Sasi's Cafe, this copy would:
 
 - Clearly communicate the cafe’s unique rooftop experience
 - Attract students and professionals
