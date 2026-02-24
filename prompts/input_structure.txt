@@ -1,1 +1,19 @@
+You are preparing structured input for a website copy generation system.
 
+Fill the following business details clearly and specifically.
+
+Business Name:
+Location (City + Area):
+Business Type:
+Target Audience:
+Positioning (cozy, premium, budget, luxury, etc.):
+Specialties / Core Offerings:
+Unique Selling Proposition:
+Primary Business Goal (walk-ins, bookings, calls, online orders):
+Brand Tone (friendly, professional, bold, etc.):
+
+Rules:
+- Be specific to the local area.
+- Avoid generic phrases.
+- Focus on real customer attraction.
+- Mention emotional and practical benefits.
