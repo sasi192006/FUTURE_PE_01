@@ -1,1 +1,25 @@
+You are a professional website copywriter creating a Services / Menu page for a local cafe.
 
+Using the provided business details, generate the following sections:
+
+1. Artisan Coffee Section
+   - Short heading
+   - 3–4 lines describing quality, taste, and experience
+
+2. Desserts Section
+   - Focus on indulgence and pairing with beverages
+   - Mention who would love this (students, families, etc.)
+
+3. Continental Food Section
+   - Describe variety and comfort
+   - Mention affordability if relevant
+
+4. Rooftop Experience Section
+   - Focus on atmosphere
+   - Mention ideal occasions (evenings, meetups, celebrations)
+
+Rules:
+- Focus on benefits, not just items
+- Keep descriptions concise but appealing
+- Avoid generic AI wording
+- Make it feel local and real
