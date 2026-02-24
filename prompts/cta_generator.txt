@@ -1,1 +1,23 @@
+You are writing high-converting Call-To-Action (CTA) sections for a local cafe website.
 
+Using the business details, generate:
+
+1. Walk-In Focused CTA
+   - Encourage immediate visit
+   - Mention location
+
+2. Urgency-Based CTA
+   - Weekend rush, limited rooftop seating, etc.
+
+3. Trust-Building CTA
+   - Social proof style statement
+   - Mention target audience group
+
+4. Emotional CTA
+   - Highlight experience and comfort
+
+Rules:
+- Keep each CTA short (2–4 lines)
+- Clear action language
+- Avoid sounding pushy
+- Make it warm and inviting
